@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShanevDev
 - 👀 I’m interested in  python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on Junior 
 📫 How to reach me email: rosolkosasa120@gmail.com, vk: @shanevdev
 
