@@ -1,0 +1,9 @@
+name: Shanevapi
+main: ShanevAPI
+api: 3.0.0
+version: 0.0.1
+commands:
+  start:
+    description: startsounddinamitesound
+  explodesound-test:
+    description: test
